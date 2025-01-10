@@ -1,0 +1,46 @@
+main {
+  margin-top: 10px;
+}
+
+.new-post {
+  margin-left: 340px;
+}
+
+.new-post button {
+  background-color: rgb(13, 116, 220);
+  color: white;
+}
+
+.my-post {
+  text-align: justify;
+  width: 80%;
+  margin-left: 10%;
+  border: 2px solid rgb(98, 98, 98);
+  margin-top: 10px;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.my-post :first-child {
+  color: #7bebff;
+}
+
+.edit-btn {
+  margin-left: 50%;
+  background-color: rgb(5, 169, 117);
+  color: white;
+}
+main {
+  margin-bottom: 120px;
+}
+
+.delete-btn {
+  background-color: crimson;
+  color: white;
+}
+
+button {
+  width: 90px;
+  height: 30px;
+  border-radius: 30%;
+}

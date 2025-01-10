@@ -1,0 +1,24 @@
+button {
+  background-image: linear-gradient(to right, #ff7eb9, #9e7bff, #7bc3ff);
+  height: 2rem;
+}
+
+main {
+  margin-bottom: 100px;
+}
+
+ul {
+  text-align: start;
+}
+
+li {
+  margin: 10px 20px;
+}
+
+h1 {
+  color: #7bebff;
+}
+
+form h3 {
+  color: #7bebff;
+}

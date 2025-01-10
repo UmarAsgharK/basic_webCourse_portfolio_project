@@ -1,0 +1,38 @@
+.project {
+  /* background-color: steelblue; */
+  /* margin-top: 10px; */
+  margin: 10px 0;
+  color: white;
+  display: flex;
+}
+
+main {
+  margin-bottom: 90px;
+}
+
+.description {
+  width: 50%;
+}
+
+.project-img {
+  background-color: #313131;
+  width: 50%;
+}
+
+.project-image {
+  /* background-color: antiquewhite; */
+  width: 50%;
+}
+
+img {
+  width: 100%;
+  /* height: 50%; */
+}
+
+.description h3 {
+  color: #7bebff;
+}
+
+.description h3 + p {
+  color: orange;
+}
